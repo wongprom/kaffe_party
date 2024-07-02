@@ -1,3 +1,22 @@
+## Notes
+
+### Name & Logo
+
+Brew Haven
+![alt text](./images/coffee-logo250x250.png)
+
+### Color Palette
+
+![alt text](./images/colorPallete.png)
+
+Deep Green ![#47754D](https://placehold.co/15x15/47754D/47754D.png) `#47754D`<br>
+Soft Beige ![#D6B78C](https://placehold.co/15x15/D6B78C/D6B78C.png) `#D6B78C`<br>
+Light Cream ![#F7EAD0](https://placehold.co/15x15/F7EAD0/F7EAD0.png) `#F7EAD0`<br>
+Warm Brown ![#8A5C4C](https://placehold.co/15x15/8A5C4C/8A5C4C.png) `#8A5C4C`<br>
+Dark Earthy Brown ![#7C5329](https://placehold.co/15x15/7C5329/7C5329.png) `#7C5329`<br>
+
+<hr>
+
 # Bootstrap 5 - Kaffeparty
 
 ## En första prototyp till företagssida
