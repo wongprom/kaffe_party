@@ -1,0 +1,17 @@
+// import the functions & variables to make it posible to map our custom colors to bootstrap
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+
+// Custom colors
+$custom-theme-colors: (
+  'custom-deep-green': #47754d,
+  'custom-soft-beige': #d6b78c,
+  'custom-light-cream': #f7ead0,
+  'custom-warm-brown': #8a5c4c,
+  'custom-dark-earthy-brown': #7c5329,
+);
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
