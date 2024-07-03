@@ -1,21 +1,56 @@
-## Notes
+# Coffee Party
 
-### Name & Logo
+This site is created with HTML and Bootstrap 5. It is structured according to customer wishes, which you can find [here](#bootstrap-5---kaffeparty).
 
-Brew Haven
-![alt text](./images/coffee-logo250x250.png)
+If you want to clone and run this project =>[Go to Get Started](#getting-started).
 
-### Color Palette
+> ## My Notes
+>
+> ### Name & Logo
+>
+> Brew Haven
+> ![alt text](./images/coffee-logo250x250.png)
+>
+> ### Color Palette
+>
+> ![alt text](./images/colorPallete.png)
+>
+> Deep Green ![#47754D](https://placehold.co/15x15/47754D/47754D.png) `#47754D`<br>
+> Soft Beige ![#D6B78C](https://placehold.co/15x15/D6B78C/D6B78C.png) `#D6B78C`<br>
+> Light Cream ![#F7EAD0](https://placehold.co/15x15/F7EAD0/F7EAD0.png) `#F7EAD0`<br>
+> Warm Brown ![#8A5C4C](https://placehold.co/15x15/8A5C4C/8A5C4C.png) `#8A5C4C`<br>
+> Dark Earthy Brown ![#7C5329](https://placehold.co/15x15/7C5329/7C5329.png) `#7C5329`<br>
+>
+> <hr>
 
-![alt text](./images/colorPallete.png)
+# Getting Started
 
-Deep Green ![#47754D](https://placehold.co/15x15/47754D/47754D.png) `#47754D`<br>
-Soft Beige ![#D6B78C](https://placehold.co/15x15/D6B78C/D6B78C.png) `#D6B78C`<br>
-Light Cream ![#F7EAD0](https://placehold.co/15x15/F7EAD0/F7EAD0.png) `#F7EAD0`<br>
-Warm Brown ![#8A5C4C](https://placehold.co/15x15/8A5C4C/8A5C4C.png) `#8A5C4C`<br>
-Dark Earthy Brown ![#7C5329](https://placehold.co/15x15/7C5329/7C5329.png) `#7C5329`<br>
+```
+git clone https://github.com/wongprom/kaffe_party.git
+```
 
-<hr>
+`cd in to project if needed`
+
+and
+
+```
+npm install
+```
+
+### Prerequisites
+
+VSCode extension
+
+- [Live Server](vscode:extension/ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
+
+- [Live Sass Compiler](vscode:extension/glenn2223.live-sass) - Compile Sass or Scss to CSS at realtime.
+
+### Run Project
+
+In footer of VSCode
+
+- click `Go Live`
+- click `Watch Sass`
 
 # Bootstrap 5 - Kaffeparty
 
