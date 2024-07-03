@@ -89,3 +89,7 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Sass & Css
+.main.min.css
+.main.min.css.map
